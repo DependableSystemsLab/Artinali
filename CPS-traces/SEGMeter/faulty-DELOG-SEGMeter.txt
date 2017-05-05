@@ -1,0 +1,7602 @@
+
+
+Event: send1
+get_segmeter_data = false
+command = (all_nodes (start_data))
+status = nil
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = 3G
+status = timeout
+stream = nil
+
+Event: read(data_file)2
+line = SEGMeter-A
+count = 1
+temp_node_list = table: 0x44d280
+
+Event: read(data_file)2
+line = farid
+count = 2
+temp_node_list = table: 0x44d280
+
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4734a8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x488b88)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389789
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x487c10)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389789
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48f490)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389789
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x462590)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389789
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x487b58)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389789
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x468180)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4861b0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389789
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46b3b8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4705a0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389789
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x474da0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389789
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x487578)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389789
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x49e6b8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4598e0)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476389865
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4650a8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389865
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x468180)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389865
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x460a28)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389865
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x49eac8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389865
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48b5b8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4546f8)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389865
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x454ae0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x48daa0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389865
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x488820)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389865
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x465080)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389865
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x459d30)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389865
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x445278)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476389936
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48b640)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x45d990)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389936
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x487048)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389936
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4607a8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389936
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x49f630)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389936
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x476138)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x473510)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389936
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x457bc0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389936
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x457a38)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389936
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48e140)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389936
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x467aa8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389936
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45aff0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389936
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48eb30)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476389997
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x487308)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389997
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x457b98)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x44f1f8)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389997
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x460688)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389997
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x488fb0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389997
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48f4e8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389997
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x444d70)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x454478)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389997
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x486340)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389997
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x459d30)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476389997
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x487250)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476390063
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x460b28)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390063
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4a7a00)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390063
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x486e18)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4563c0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390063
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x476650)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390063
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4590a8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390063
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x464f60)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390063
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48f438)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390063
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4604e0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x48f9c8)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390063
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4569c0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476390137
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4752c8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390137
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x49e558)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390137
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4750b8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390137
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4638f0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390137
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4537f8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4526e8)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390137
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4549f0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390137
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46c310)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390137
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x456a98)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390137
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48f528)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390137
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4887a0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x472f18)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390137
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x49da90)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476390209
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48da78)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390209
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48ec40)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390209
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x44f290)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390209
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46a300)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390209
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x49e680)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x487188)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390209
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46b018)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390209
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x481a50)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390209
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48b5b0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390209
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4549a8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390209
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46b470)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x488050)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476390281
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4719c8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390281
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x496c50)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390281
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4750c8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390281
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4804f0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390281
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x47c060)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x46b728)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390281
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x453e38)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390281
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x471f48)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390281
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x49e530)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390281
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x454bd0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476390350
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46c358)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x46b688)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390350
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x453870)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390350
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x471de0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390350
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x444fd0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390350
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4731c8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390350
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x49dc28)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390350
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48eb78)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x488030)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390350
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x456348)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390350
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x44efc0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390350
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x463920)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390350
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48f630)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476390426
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x460718)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x444fb0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390426
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x483c40)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390426
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48d288)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390426
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48f3b8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390426
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46f4d0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390426
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4602c8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4a1860)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390426
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4a1f98)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390426
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4568e0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390426
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x445060)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476390496
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x444d90)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390496
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x483e50)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x468110)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390496
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x444f58)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390496
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x452548)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390496
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4a1ad0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390496
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46ede0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390496
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x470ae0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x481ad0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390496
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x477080)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390496
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4a8ae0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390496
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x476610)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476390569
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4667a0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390569
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b0e0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390569
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x459920)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x44f290)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390569
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x453790)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390569
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b010)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390569
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x445160)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390569
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x456718)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4637e0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390569
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46b730)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390569
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4450a8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476390641
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45ac10)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390641
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b2f0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390641
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4ae810)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390641
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x453fa0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x46e650)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390641
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4a8500)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390641
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x470a08)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390641
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x453cb0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390641
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b168)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x453790)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476390711
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4814a0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390711
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46f440)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390711
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x481680)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390711
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46add8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390711
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x483f30)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390711
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x49df60)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4767b0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390711
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4769c8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390711
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4549a8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390711
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b1f8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390711
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x475ed8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390711
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x470348)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x45b8a8)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476390788
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45d9d8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390788
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48bfe0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390788
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x460b90)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390788
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x457b30)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390788
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46f408)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x476af8)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390788
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4a0948)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390788
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x452698)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390788
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x469da0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390788
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4602a8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x444dd8)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476390862
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x483a70)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390862
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x44d1f0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390862
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x460400)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390862
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46afa8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390862
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x456ec0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x459d30)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390862
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x460538)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390862
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x44f1b0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476390928
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46b700)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x459758)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390928
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4a8e40)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390928
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x469da0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390928
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4606e8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390928
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x457cb8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390928
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x476868)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390928
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4a6e10)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x46f268)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390928
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46c310)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390928
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x468248)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390928
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46efd0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476390998
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4565f0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390998
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b4f8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x46b8f0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390998
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46a300)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390998
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b8a8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390998
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4a6a68)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390998
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b490)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4549c8)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390998
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4a6bc8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390998
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x475f50)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476390998
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x459d30)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476391074
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4a68d8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391074
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46f080)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4a67e8)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391074
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45db68)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391074
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4708f8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391074
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x453cd0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x477ae0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391074
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b878)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391074
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x469910)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476391143
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b788)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391143
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x483980)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391143
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4a8860)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x459928)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391143
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45ae40)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391143
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4a89f8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391143
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46ed08)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391143
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x475ee8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391143
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x470760)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x44efc0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391143
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x469950)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476391216
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x463828)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391216
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46adb8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391216
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x444f38)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x459d30)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391216
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46b4d8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x483b08)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391216
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x462bb8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391216
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x452500)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x475fe0)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476391286
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b3c0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391286
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x454a10)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391286
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x463940)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391286
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x444d90)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391286
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x454388)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x45fa90)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391286
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45fd98)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391286
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46f110)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391286
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x454720)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x46f2c8)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476391365
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45fba0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391365
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4acff8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391365
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x457aa0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391365
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x483dc8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391365
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x476ff8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x460c20)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391365
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x483d10)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391365
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x454510)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391365
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x454c20)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391365
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4aadd8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476391430
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x444d70)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x470aa0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391430
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45d800)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391430
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x461ed8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391430
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45fa28)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4b3698)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391430
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4706b8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391430
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46a300)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391430
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45dba8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391430
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x454c48)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476391502
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x496ee0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391502
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4b26d0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4771c8)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391502
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x453110)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391502
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x463918)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x467bf0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391502
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x457970)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391502
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4b03f0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476391574
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4771c8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391574
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x454ba0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391574
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46f0e0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4a9f30)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391574
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48d7b0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391574
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x461ec8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391574
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x460bd8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391574
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x470438)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x46b4b8)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391574
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4772e8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476391649
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x457af0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391649
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x462978)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391649
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48d168)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x477370)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391649
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46c310)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391649
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x452700)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391649
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x459d30)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391649
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x468368)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391649
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4452a8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x48d128)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476391723
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x488868)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391723
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4ab1a8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4be0c8)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391723
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4d03f0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391723
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46b8f0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391723
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x468270)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391723
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x469910)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391723
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4880c8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x456368)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476391792
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x445258)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391792
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4743f0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391792
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x470700)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x48a820)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391792
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4598c0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391792
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4708b8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391792
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x462978)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4452c0)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476391865
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x456758)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391865
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b490)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391865
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45d898)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391865
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x489dd0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391865
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x462958)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x475d98)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391865
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x483f28)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391865
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45ed60)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391865
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x460b28)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476391939
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48a420)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x459d30)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391939
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x48a6d0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391939
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x475f90)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391939
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x462750)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x462750)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391939
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45ed60)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391939
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4679d0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476391939
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x453860)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476392010
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x49c428)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x456ab0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392010
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45adb0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392010
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x469da0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392010
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x476de0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4530f0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392010
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4598c0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392010
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4680f0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476392083
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x445280)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x44d230)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392083
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45eda8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392083
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x456b20)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392083
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x462680)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392083
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x459928)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4709a8)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392083
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45a218)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476392154
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46e670)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392154
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x470168)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x453790)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392154
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45ed60)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392154
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x466798)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392154
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45db88)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392154
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x483828)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x445150)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392154
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x462410)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392154
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46e650)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476392230
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4579b8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392230
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x453e20)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x483e60)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392230
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46c310)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392230
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x493bd8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x470148)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392230
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4548a0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476392295
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x453eb0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392295
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4637e0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392295
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x462dc0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x461ea8)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392295
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46b8f0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392295
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x454a58)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392295
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x470588)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x462d38)
+
+Event: send_event_heartbeat
+heartbeat_rate = nil
+throttle_counter = 300
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476392373
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4548d0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392373
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4538b8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x46adb8)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392373
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x476148)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392373
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4549c8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392373
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b4f0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392373
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x456b90)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4530f0)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476392440
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x460b28)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392440
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x44f290)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392440
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x453860)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392440
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x480218)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x46c310)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392440
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x459950)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392440
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45d7e0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x469da0)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476392517
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x468258)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392517
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x457cc8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392517
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b3b8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392517
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4a92c8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x45b3b8)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392517
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4e60d0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x470ae8)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392517
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x445248)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x45db20)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476392596
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x475f78)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392596
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b440)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392596
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4568a0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x46a340)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392596
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45dbf0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392596
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x456aa8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476392665
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x457a48)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4667a0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392665
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x462b98)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392665
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b4f0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392665
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x456c38)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392665
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x453850)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4566d0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392665
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x476c60)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476392737
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x468140)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x459d30)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392737
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x457948)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392737
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x470ae8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392737
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45d820)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392737
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46b448)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x45b810)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392737
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x476d78)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x459908)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476392807
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4544e8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x45ed60)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392807
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x470a78)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392807
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x468290)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392807
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45d978)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x44f000)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476392878
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46c358)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392878
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x456cc8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392878
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45fcf8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4549c8)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392878
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45d7e0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392878
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x460bd0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392878
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x475f08)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x45ed60)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476392960
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x466908)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x477b70)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392960
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x44efe0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392960
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x456bb8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392960
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x476b50)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4530f0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476392960
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4538b8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4680f0)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476393026
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46a348)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393026
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x466710)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393026
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x470a60)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x476f50)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393026
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x456ac0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476393088
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46b580)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x44d1f0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393088
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46b3d8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393088
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x460b50)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393088
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4566f0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x461ef0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393088
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4680f0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393088
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4679d0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476393164
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x476140)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x468318)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393164
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x46a300)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393164
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x466888)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x457a40)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393164
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x456368)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476393239
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4549a8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x477030)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393239
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x476ed8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393239
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x468140)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x454b28)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393239
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x454c20)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393239
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x460bd8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476393309
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x467a88)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393309
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x475bd8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x469910)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393309
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x456e20)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393309
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x45b898)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x46a340)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393309
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4452a0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476393387
+:::
+
+Event: send1
+get_segmeter_data = true
+command = (all_nodes (start_data))
+status = timeout
+stream = nil
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x44f1b0)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393387
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x457c80)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x4530f0)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393387
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x453838)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393387
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x466910)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: get_data_timer
+output = false
+data_rate = 60
+next_data_time = 1476393387
+
+Event: receive1
+get_segmeter_data = false
+command = nil
+status = timeout
+stream = nil
+
+Event: open(data_file_path)
+big_string = nil
+data_file = file (0x4564b8)
+
+Event: close(data_file)
+data_file = file (closed)
+
+Event: write2(data_file)
+save_data = true
+data_file = file (0x44f200)
+
+Event: get_data_timer
+output = true
+data_rate = 60
+next_data_time = 1476393448

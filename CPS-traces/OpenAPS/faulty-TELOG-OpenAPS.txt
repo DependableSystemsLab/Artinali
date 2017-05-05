@@ -1,0 +1,59 @@
+BG_sent_by_test 1478069434267253
+BG_received_by_determine-basal 1478069434269626
+basal_sent_by_determine-basal 1478069434270927
+basal_received_by_test 1478069434271299
+basal_received_by_test 1478069434271500
+
+
+
+
+BG_received_by_determine-basal 1478069439488756
+basal_sent_by_determine-basal 1478069439490127
+basal_received_by_test 1478069439490466
+basal_received_by_test 1478069439492000
+
+
+:::
+
+BG_sent_by_test 1478069444713089
+BG_received_by_determine-basal 1478069444715445
+basal_sent_by_determine-basal 1478069444716709
+basal_received_by_test 1478069444717077
+basal_received_by_test 1478069444717777
+
+
+BG_sent_by_test 1478069449945463
+BG_received_by_determine-basal 1478069449947780
+basal_sent_by_determine-basal 1478069449948501
+basal_received_by_test 1478069449949271
+basal_received_by_test 1498069449949671
+:::
+
+BG_sent_by_test 1478069455208185
+BG_received_by_determine-basal 1478069455211999
+basal_sent_by_determine-basal 1478069455213982
+basal_received_by_test 1478069455214458
+basal_received_by_test 1478069455214658
+
+
+
+BG_sent_by_test 1478069460458607
+BG_received_by_determine-basal 1478069460461077
+basal_sent_by_determine-basal 1478069460461663
+basal_received_by_test 1478069460461920
+basal_received_by_test 1478069460462920
+
+:::
+BG_sent_by_test 1478069465683519
+BG_received_by_determine-basal 1478069465686096
+basal_sent_by_determine-basal 1478069465687382
+basal_received_by_test 1478069465687724
+basal_received_by_test 1478069465687924
+
+
+
+BG_sent_by_test 1478069470903752
+BG_received_by_determine-basal 1478069470906099
+basal_sent_by_determine-basal 1478069470906563
+basal_received_by_test 1478069470906803
+basal_received_by_test 1478069470907803
