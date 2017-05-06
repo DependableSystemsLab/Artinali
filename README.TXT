@@ -1,14 +1,14 @@
 
 ======
 Pre-requisites
-  1. Python 3
+  1. Python 2
   2. 64 bit Machines with 64 bit Linux/OS X.
 
 ======
 Installation
-  A. Install Python 3
+  A. Install Python 2 and check whether the "python" command invokes Python by running "python --verbose". If Python 3 is invoked, then for all steps described below, use command "python2" instead of "python" to force the usage of Python 2.
 
-  B. Download ARTINALI
+  B. Clone the ARTINALI repository (git clone https://github.com/karthikp-ubc/Artinali.git). In the steps outlined below, "ARTINALI-src" refers to the source directory of your ARTINALI working copy.
     	
   C. Testing ARTINALI
     1.You can use CustomAPI functions to instrument the example programs in /ARTINALI/test_suite/PROGRAMS/ and collect traces after running the code. As a result, three log files including DELOG, TELOG and DurationLOG will be generated.
@@ -16,7 +16,7 @@ Installation
     2. You can directly use the collected traces from /ARTINALI/CPS-traces/ to test ARTINALI.
 
     Example program: SEGMeter
-      1. Copy ARTINALI-src/ to your project directory and change to ARTINALI-src/CPS-traces/SEGMETER/ directory. 
+      1. Change to ARTINALI-src/CPS-traces/SEGMETER/ directory. 
 
       2. Run python <ARTINALIsrc_ROOT>/Invariant-Inf/DEMiner.py DELOG-SEGMeter.txt
       You should be able to see DEInv.txt 
