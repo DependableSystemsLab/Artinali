@@ -1,0 +1,36 @@
+TD|E Invariant 1. 
+read(data_file)2 :  0.0283999443054 , 0.0283999443054 (sec)
+
+TD|E Invariant 2. 
+send_event_heartbeat :  0.639199972153 , 0.606199979782 (sec)
+
+TD|E Invariant 3. 
+send1 :  2.57869982719 , 0.01859998703 (sec)
+
+TD|E Invariant 4. 
+open2(data_file_path) :  15.7399001122 , 0.0455000400543 (sec)
+
+TD|E Invariant 5. 
+open(data_file_path) :  0.166300058365 , 0.0176999568939 (sec)
+
+TD|E Invariant 6. 
+write(data_file) :  0.166300058365 , 0.0176999568939 (sec)
+
+TD|E Invariant 7. 
+receive1 :  29.2294998169 , 0.0204999446869 (sec)
+
+TD|E Invariant 8. 
+call_seg_api(3) :  0.588900089264 , 0.581399917603 (sec)
+
+TD|E Invariant 9. 
+close(data_file) :  3.56560015678 , 0.01859998703 (sec)
+
+TD|E Invariant 10. 
+call_seg_api(5) :  0.707900047302 , 0.704400062561 (sec)
+
+TD|E Invariant 11. 
+close2(data_file) :  2.5649998188 , 0.0550000667572 (sec)
+
+TD|E Invariant 12. 
+get_data_timer :  2.40249991417 , 0.0186998844147 (sec)
+

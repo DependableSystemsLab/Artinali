@@ -1,0 +1,47 @@
+T|E Invariant 1. 
+close(data_file)->get_data_timer 100.000000  :  17.241  ,  0.5129
+
+T|E Invariant 2. 
+close(data_file)->open2(data_file_path) 100.000000  :  12.8639  ,  0.5099
+
+T|E Invariant 3. 
+close2(data_file)->get_data_timer 100.000000  :  5.6166  ,  0.0547
+
+T|E Invariant 4. 
+get_data_timer->receive1 100.000000  :  15.4587  ,  0.0487
+
+T|E Invariant 5. 
+open(data_file_path)->close(data_file) 100.000000  :  16.6667  ,  0.0615
+
+T|E Invariant 6. 
+open2(data_file_path)->write(data_file) 100.000000  :  15.7512  ,  0.0646
+
+T|E Invariant 7. 
+receive1->open(data_file_path) 100.000000  :  31.2987  ,  1.1411
+
+T|E Invariant 8. 
+send1->receive1 100.000000  :  3.535  ,  0.0644
+
+T|E Invariant 9. 
+write(data_file)->close2(data_file) 100.000000  :  12.1303  ,  0.0522
+
+
+::::::
+Frequency 1. 
+close(data_file)->close(data_file) 100.000000  :  36.8998  ,  2.1517
+
+Frequency 2. 
+get_data_timer->get_data_timer 100.000000  :  33.1456  ,  2.4226
+
+Frequency 3. 
+open(data_file_path)->open(data_file_path) 100.000000  :  36.8449  ,  2.2329
+
+Frequency 4. 
+open2(data_file_path)->open2(data_file_path) 88.235294  :  55.7025  ,  6.2067
+
+Frequency 5. 
+receive1->receive1 100.000000  :  29.4027  ,  2.4031
+
+Frequency 6. 
+write(data_file)->write(data_file) 88.235294  :  53.8216  ,  0.0489
+

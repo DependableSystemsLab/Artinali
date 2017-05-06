@@ -1,0 +1,26 @@
+T|E Invariant 1. 
+BG_received_by_determine-basal->basal_sent_by_determine-basal 100.000000  :  1983.0  ,  464.0
+
+T|E Invariant 2. 
+BG_sent_by_test->BG_received_by_determine-basal 100.000000  :  3814.0  ,  2317.0
+
+T|E Invariant 3. 
+basal_received_by_test->BG_sent_by_test 100.000000  :  5243949.0  ,  5214834.0
+
+T|E Invariant 4. 
+basal_sent_by_determine-basal->basal_received_by_test 100.000000  :  770.0  ,  240.0
+
+
+::::::
+Frequency 1. 
+BG_received_by_determine-basal->BG_received_by_determine-basal 100.000000  :  5249078.0  ,  5219130.0
+
+Frequency 2. 
+BG_sent_by_test->BG_sent_by_test 100.000000  :  5250422.0  ,  5219081.0
+
+Frequency 3. 
+basal_received_by_test->basal_received_by_test 100.000000  :  5247262.0  ,  200.0
+
+Frequency 4. 
+basal_sent_by_determine-basal->basal_sent_by_determine-basal 100.000000  :  5247681.0  ,  5219181.0
+

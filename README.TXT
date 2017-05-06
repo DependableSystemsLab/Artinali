@@ -32,13 +32,13 @@ Installation
 
   D. Testing IDS
    
-    1. Run python <ARTINALIsrc_ROOT>/IDS-src/DE-IDS.py DEInv.txt faulty-DELOG-SEGMeter
+    1. Run python <ARTINALIsrc_ROOT>/IDS-src/DE-IDS.py DEInv.txt faulty-DELOG-SEGMeter.txt
       You should be able to see DataAbnormality.txt 
   
-    2. Run python <ARTINALIsrc_ROOT>/IDS-src/TE-IDS.py TEInv.txt faulty-TELOG-SEGMeter
+    2. Run python <ARTINALIsrc_ROOT>/IDS-src/TE-IDS.py TEInv.txt faulty-TELOG-SEGMeter.txt
       You should be able to see TimeAbnormality.txt 
  
-    3. Run python <ARTINALIsrc_ROOT>/IDS-src/Duration-IDS.py DEInv.txt faulty-duration-SEGMeter
+    3. Run python <ARTINALIsrc_ROOT>/IDS-src/Duration-IDS.py DEInv.txt faulty-duration-SEGMeter.txt
       You should be able to see DurationAbnormality.txt 
  
      

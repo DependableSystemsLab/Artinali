@@ -1,0 +1,48 @@
+D|E Invariant 1. 
+Event:close(data_file)
+ data_file=file(closed)
+
+D|E Invariant 2. 
+Event:write2(data_file)
+ save_data=true
+
+D|E Invariant 3. 
+Event:send1
+ get_segmeter_data=true
+ command=(all_nodes(start_data))
+ stream=nil
+
+D|E Invariant 4. 
+Event:receive1
+ get_segmeter_data=false
+ command=nil
+ status=timeout
+ stream=nil
+
+D|E Invariant 5. 
+Event:open(data_file_path)
+ big_string=nil
+
+D|E Invariant 6. 
+Event:get_data_timer
+ output=false , true
+ data_rate=60
+
+::::::
+
+Coincidence 1. 
+Event:write2(data_file)
+ data_file=file(0x4705a0) , file(0x488b88) , file(0x4598e0) , file(0x4861b0) , file(0x4530f0) , file(0x44f200)
+
+Coincidence 2. 
+Event:send1
+ status=timeout , nil
+
+Coincidence 3. 
+Event:open(data_file_path)
+ data_file=file(0x468180) , file(0x487b58) , file(0x48f490) , file(0x462590) , file(0x487c10) , file(0x487578) , file(0x46b3b8) , file(0x4564b8) , file(0x49e6b8) , file(0x466910) , file(0x4734a8) , file(0x457c80) , file(0x474da0) , file(0x44f1b0) , file(0x453838)
+
+Coincidence 4. 
+Event:get_data_timer
+ next_data_time=1476393448 , 1476389789 , 1476389865 , 1476393387
+
