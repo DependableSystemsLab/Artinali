@@ -1,0 +1,22 @@
+Always followed by:
+
+BG_received_by_determine-basal->basal_sent_by_determine-basal 
+ 
+BG_sent_by_test->BG_received_by_determine-basal 
+
+basal_received_by_test->BG_sent_by_test
+
+basal_sent_by_determine-basal->basal_received_by_test
+
+
+Always precedes by:
+
+BG_received_by_determine-basal<-basal_sent_by_determine-basal  
+
+BG_sent_by_test<-BG_received_by_determine-basal 
+
+basal_received_by_test<-BG_sent_by_test 
+
+
+basal_sent_by_determine-basal<-basal_received_by_test
+

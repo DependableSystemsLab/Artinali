@@ -1,0 +1,50 @@
+
+
+Event:call_seg_api(1)
+ this_response=(status ok)
+ talker_win=true
+
+Event:close(data_file)
+ big_string=nil
+ data_file=file (closed)
+
+
+Event:get_data_time
+ data_rate=60
+
+Event:get_data_timer2
+ status=timeout
+
+Event:get_node_atoms
+ node_name=farid
+
+Event:get_node_message
+ node_name=farid
+ current_message=nil
+
+Event:get_sendable_data
+ sendable_data=false
+ seg_win=false
+
+
+Event:open(data_file_path)
+ big_string=nil
+
+Event:read(data_file)
+ big_string=nil
+
+Event:read(data_file)2
+ line=farid
+ count=1
+ temp_node_list=table: 0x466f08
+
+Event:receive1
+ get_segmeter_data=false
+ command=nil
+ status=timeout
+ stream=nil
+
+Event:send1
+ get_segmeter_data=true
+ command=(all_nodes (start_data))
+ stream=nil

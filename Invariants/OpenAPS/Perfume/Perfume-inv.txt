@@ -1,0 +1,28 @@
+
+Always followed by:
+
+BG_received_by_determine-basal->basal_sent_by_determine-basal   :  1983.0  ,  464.0
+
+ 
+BG_sent_by_test->BG_received_by_determine-basal  :  3814.0  ,  2317.0
+
+
+basal_received_by_test->BG_sent_by_test  :  5243949.0  ,  5214834.0
+
+
+basal_sent_by_determine-basal->basal_received_by_test  :  770.0  ,  240.0
+
+
+Always precedes by:
+
+BG_received_by_determine-basal<-basal_sent_by_determine-basal  :  1983.0  ,  464.0
+
+ 
+BG_sent_by_test<-BG_received_by_determine-basal   :  3814.0  ,  2317.0
+
+
+basal_received_by_test<-BG_sent_by_test  :  5243949.0  ,  5214834.0
+
+
+basal_sent_by_determine-basal<-basal_received_by_test :  770.0  ,  240.0
+
