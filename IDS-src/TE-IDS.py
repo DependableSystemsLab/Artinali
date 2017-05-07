@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-###### THIS SCRIPT FINDS THE SUSPICIOUS TIME FOR ALL GIVEN EVENTS OF INPUT TRACES. ######
+###### THIS SCRIPT FINDS THE SUSPICIOUS TIME BOUNDARY AND FREQUENCY FOR ALL GIVEN EVENTS OF INPUT TRACES. ######
 ###### WRITTEN BY MARYAM RAIYAT ALIABADI#################################################
 ###### 9TH JULY 2016##############################################################
 
