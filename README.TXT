@@ -28,7 +28,7 @@ Installation
       TEMiner.py takes a sequence of traces that include the instrumented events and the time stamps after events, and mines the patterns of normal order of events along with their time boundaries and their occurrence frequency.You should be able to see the result in TEInv.txt 
 
       4. Run python <ARTINALIsrc_ROOT>/Invariant-Inf/DurationMiner.py duraion-SEGMeter.txt
-      TEMiner.py takes a sequence of traces that include the instrumented events and the time stamps before and after every event, and mines the time takes that every event is executed. You should be able to see the result in TDInv.txt  
+      DurationMiner.py takes a sequence of traces that include the instrumented events and the time stamps before and after every event, and mines the time takes that every event is executed. You should be able to see the result in TDInv.txt  
 
 
    You may want to compare the result of steps 2-4 with invariants reference in ARTINALI-src/Invariants/SEGMeter/
@@ -41,8 +41,8 @@ Installation
     2. Run python <ARTINALIsrc_ROOT>/IDS-src/TE-IDS.py TEInv.txt faulty-TELOG-SEGMeter.txt
       TE-IDS.py takes two inputs including Event per Time invariants and the test traces, and reports the abnormal traces. You should be able to see the result in TimeAbnormality.txt 
  
-    3. Run python <ARTINALIsrc_ROOT>/IDS-src/Duration-IDS.py DEInv.txt faulty-duration-SEGMeter.txt
-      DE-IDS.py takes two inputs including Duration invariants and the test traces, and reports the abnormal traces. You should be able to see the result in DurationAbnormality.txt 
+    3. Run python <ARTINALIsrc_ROOT>/IDS-src/Duration-IDS.py TDInv.txt faulty-duration-SEGMeter.txt
+      Duration-IDS.py takes two inputs including Duration invariants and the test traces, and reports the abnormal traces. You should be able to see the result in DurationAbnormality.txt 
  
      
 ======
